@@ -1,0 +1,32 @@
+
+
+.App-logo {
+ width: 17vmax;
+  
+}
+.me-auto{
+  margin-left: auto !important;
+}
+@media (prefers-reduced-motion: no-preference) {
+  a.navbar-brand {
+    display: inline-flex;
+    width: 85% !important;
+    margin-right: 0px !important;
+}
+}
+
+.testt{
+padding-left: 8px;
+}
+
+.bongo{
+  display: flex;
+}
+
+@media screen and (min-width: 1024px){
+a.navbar-brand {
+  display: block !important;
+  width: auto !important;
+  margin-right: 0px !important;
+}
+}
