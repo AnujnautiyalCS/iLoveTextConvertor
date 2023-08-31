@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ilovetextconvertor/static/css/main.9d9c4834.css",
-    "main.js": "/ilovetextconvertor/static/js/main.183d7cc8.js",
-    "static/js/787.28cb0dcd.chunk.js": "/ilovetextconvertor/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/ilovetextconvertor/index.html",
-    "main.9d9c4834.css.map": "/ilovetextconvertor/static/css/main.9d9c4834.css.map",
-    "main.183d7cc8.js.map": "/ilovetextconvertor/static/js/main.183d7cc8.js.map",
-    "787.28cb0dcd.chunk.js.map": "/ilovetextconvertor/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/iLoveTextConvertor/static/css/main.9d9c4834.css",
+    "main.js": "/iLoveTextConvertor/static/js/main.911b02ab.js",
+    "static/js/787.28cb0dcd.chunk.js": "/iLoveTextConvertor/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/iLoveTextConvertor/index.html",
+    "main.9d9c4834.css.map": "/iLoveTextConvertor/static/css/main.9d9c4834.css.map",
+    "main.911b02ab.js.map": "/iLoveTextConvertor/static/js/main.911b02ab.js.map",
+    "787.28cb0dcd.chunk.js.map": "/iLoveTextConvertor/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d9c4834.css",
-    "static/js/main.183d7cc8.js"
+    "static/js/main.911b02ab.js"
   ]
 }
